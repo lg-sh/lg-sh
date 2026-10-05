@@ -14,4 +14,4 @@ Technology enthusiast with interests in: <br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lg-sh&show_icons=true&theme=onedark)](#)
